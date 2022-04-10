@@ -1,1 +1,1 @@
-# nxmixi.gethup.io
+# nxmixi.githup.io
